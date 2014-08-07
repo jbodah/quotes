@@ -3,6 +3,7 @@ quotes
 
 Some of my favorite software quotes
 
+"In my experience, you either have encapsulation and abstraction or you have neither. There is no middle ground." - Steve McConnell, Code Complete
 
 "The secret to building large apps is never build large apps. Break your applications into small pieces. Then, assemble those testable, bite-sized pieces into your big application" - Justin Meyer, JavaScriptMVC
 
