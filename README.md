@@ -18,3 +18,11 @@ Some of my favorite software quotes
 However, if you need to make a 1.7 oz burger, you simply can’t.  There’s no button for it.  The patties are pre-formed in the wrong size.  They start out frozen so they can’t be smushed up and reformed, and the thawing machine is so tightly integrated with the cooking machine that there’s no way to intercept it between the two.  A McDonalds kitchen makes exactly what’s on the McDonalds menu — and does so in an absolutely foolproof fashion.  But it can’t go off the menu, and any attempt to bend the machine to your will just breaks it such that it needs to be sent back to the factory for repairs." - Dave Barrett, expensify.com
 
 "Plans were created months in advance as part of the contract negotiation process. Each project was assigned a project manager whose job was to find ways to make reality match the schedule. Clearly a thankless job, since reality objects to being changed. Schedules can be changed to match reality; that's easy. Changing reality, on the other hand, takes special powers." - James Shore, jamesshore.com
+
+"If you graduate Stanford at 22 and Google recruits you, you’ll work a 9-to-5. It’s probably more like an 11-to-3 in terms of hard work. They’ll pay well. It’s relaxing. But what they are actually doing is paying you to accept a much lower intellectual growth rate. When you recognize that intelligence is compounding, the cost of that missing long-term compounding is enormous. They’re not giving you the best opportunity of your life. Then a scary thing can happen: You might realize one day that you’ve lost your competitive edge. You won’t be the best anymore. You won’t be able to fall in love with new stuff. Things are cushy where you are. You get complacent and stall." - Stephen Cohen, Palantir
+
+"If quality doesn't matter much, though, you’re not gonna get a lot better over time. You'll end up doing the same mediocre things over and over again, working with mediocre people. That's a bad thing. Don't stay in an environment like that." - Max Horstmann, maxhorstmann.net
+
+
+
+
