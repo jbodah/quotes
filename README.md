@@ -46,3 +46,5 @@ However, if you need to make a 1.7 oz burger, you simply can’t.  There’s no 
 "Solving a problem simply means representing it so as to make the solution transparent." - Herbert Simon
 
 Not a quote, but an excellent article on why constructor injection is important in Ruby: http://solnic.eu/2013/12/17/the-world-needs-another-post-about-dependency-injection-in-ruby.html
+
+"Intuition doesn't scale." - Adam Tornhill
